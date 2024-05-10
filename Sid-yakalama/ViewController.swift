@@ -41,6 +41,8 @@ class ViewController: UIViewController {
         timeLabel.text = "Time : \(counter)"
         
         
+        //Değşiklik
+        
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(timerFunction), userInfo: nil, repeats: true)
         hideTimer = Timer.scheduledTimer(timeInterval: 0.4, target: self, selector: #selector(hideSid), userInfo: nil, repeats: true)
       
