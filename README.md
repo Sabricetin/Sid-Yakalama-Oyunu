@@ -25,3 +25,7 @@ Sid karakterlerini bulmak için ekrandaki görüntülere dokunun.
 Her Sid yakalama işlemi size puan kazandırır.
 Oyun süresi dolana kadar en yüksek puanı elde etmek için mücadele edin.
 Oyun sona erdiğinde, en yüksek puanınızı kaydedin ve tekrar oynamak için hazır olun.
+
+<h2>Ekran Görüntüsü</h2>
+
+![Sid-GİF](https://github.com/Sabricetin/Sid-Yakalama-Oyunu/assets/114506296/d38768dc-87e5-41c7-b58b-6fedd79abc68)
